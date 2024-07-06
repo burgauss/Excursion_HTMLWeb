@@ -1,0 +1,52 @@
+/*universal styles*/
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+  }
+  
+  body{
+    margin: 0;
+    color:white;
+    background-color: black;
+    margin: 20px 20px;
+    text-align: center;
+  }
+
+  header h1{
+    font-size: 3.125rem;
+    text-align: center;
+  }
+
+/*main content*/
+
+  .main-content a{
+    color: aquamarine;
+    font-size: 1rem;
+  }
+
+  .title h1{
+    font-size: 2.625rem;
+  }
+
+  .title h4{
+    font-size: 1.31rem;
+  }
+
+  .image-container{
+    margin: 2rem 0;
+  }
+
+
+  /*footer*/
+  footer{
+    /* display: inline-block; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  footer h5{
+    padding-left: 0.5rem;
+  }
+
+  
